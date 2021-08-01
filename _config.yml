@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Qing Lyu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at UPenn, [Department of Computer and Information Science](https://www.cis.upenn.edu/)"
+  bio              : "Ph.D. student at UPenn CIS"
   location         : "Philadelphia, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RD8UGoAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
