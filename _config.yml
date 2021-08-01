@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qing Lyu"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at UPenn CIS <br> <br> Email: lyuqing [at] sas.upenn.edu"
+  bio              : "Ph.D. student at UPenn CIS"
   location         : "Philadelphia, Pennsylvania"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RD8UGoAAAAAJ"
-  email            :
+  email            : "lyuqing [at] sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
