@@ -9,8 +9,9 @@ redirect_from:
 
 
 
-Visual Goal-Step Inference using wikiHow, presented at the [2nd Workshop on Advances in Language and Vision Research](https://alvr-workshop.github.io/) at [NAACL 2021](https://2021.naacl.org/) \[[pdf](https://aclanthology.org/2020.emnlp-main.374)\] \[[code](https://github.com/zharry29/wikihow-goal-step)\]
-<font size="4"> Yue Yang, Artemis Panagopoulou, Qing Lyu, Li Zhang, Mark Yatskar and Chris Callison-Burch </font>
+Visual Goal-Step Inference using wikiHow \[[pdf](https://arxiv.org/abs/2104.05845)\]
+<font size="4">Presented at the [2nd Workshop on Advances in Language and Vision Research](https://alvr-workshop.github.io/) at [NAACL 2021](https://2021.naacl.org/)</font>
+<font size="4">Yue Yang, Artemis Panagopoulou, Qing Lyu, Li Zhang, Mark Yatskar and Chris Callison-Burch</font>
 
 Goal-Oriented Script Construction, to appear in [INLG 2021](https://inlg2021.github.io/) \[[pdf](https://arxiv.org/abs/2107.13189)\] \[[code](https://github.com/zharry29/wikihow-intent)\]
 * Qing Lyu\*, Li Zhang\*, Chris Callison-Burch
