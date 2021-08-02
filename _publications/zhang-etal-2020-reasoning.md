@@ -2,7 +2,7 @@
 title: "Reasoning about Goals, Steps, and Temporal Ordering with WikiHow"
 collection: publications
 permalink: /publication/zhang-etal-2020-reasoning
-date: 2020-11
+date: 2020-11-16
 venue: 'Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 'https://aclanthology.org/2020.emnlp-main.374/'
 citation: '@inproceedings{zhang-etal-2020-reasoning,
