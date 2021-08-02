@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Reasoning about Goals, Steps, and Temporal Ordering with WikiHow, EMNLP 2020 \[[pdf](https://aclanthology.org/2020.emnlp-main.374)\] \[[code](https://github.com/zharry29/wikihow-goal-step)\]
-  * Li Zhang\*, Qing Lyu\*, Chris Callison-Burch
-  * \*: Equal contribution.
+* Li Zhang\*, Qing Lyu\*, Chris Callison-Burch
+* \*: Equal contribution.
 
 
 {% if author.googlescholar %}
